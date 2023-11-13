@@ -15,7 +15,7 @@ const theme = (darkMode, color) => ({
   textColor: darkMode ? color : 'black',
 
   panelColor: darkMode ? 'rgba(255, 255, 255, 0)' : 'rgba(255, 255, 255, 0)',
-  backgroundColor: darkMode ? '#212429' : '#F7F8FA',
+  backgroundColor: darkMode ? '#0000FF' : '#F7F8FA',
 
   uniswapPink: darkMode ? '#ff007a' : 'black',
 
